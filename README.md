@@ -16,7 +16,7 @@ Inside the snippets folder there are a set of files that should be well document
  *note that all snippets are just bits of code you put in your themes functions.php file and are simply cool things, DO NOT take this as proper practice to building a large scale E-Commerce site and please
  learn from my comments, this is not to spoon feed you code! (Unless you're not actually aspiring to be a developer)*
 
-##Current Snippets
+## Current Snippets
 
 - **DisvowCouponsForItems**<br>
 This is a script I came up with on the fly as our company had a Black Friday sale, there were massive discounts already on the packages we were offering but people
